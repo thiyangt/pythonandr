@@ -7,6 +7,9 @@ This workshop website is developed and maintained by [Dr. Thiyanga S. Talagala](
 
 👉 To view R materials [click here](https://rdataviz.netlify.app/)
 
+
 👉 To view Python materials [click here](https://pythonviz.netlify.app/)
+
+
 
 ![](/workshop.jpeg)
