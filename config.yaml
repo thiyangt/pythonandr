@@ -18,6 +18,8 @@ menu:
       url: https://rdataviz.netlify.app/
     - name: Python materials
       url: https://pythonviz.netlify.app/
+    - name: Case study
+      url: https://rdataviz.netlify.app/2023/05/case-study/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
